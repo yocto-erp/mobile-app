@@ -1,0 +1,8 @@
+{
+  "screen": {
+    "login": {
+      "email": "Nhập Email",
+      "password": "Nhập Password"
+    }
+  }
+}

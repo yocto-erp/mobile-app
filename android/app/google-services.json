@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "558284614580",
+    "firebase_url": "https://yocto-erp.firebaseio.com",
+    "project_id": "yocto-erp",
+    "storage_bucket": "yocto-erp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558284614580:android:6acced3bd387c7e37360e1",
+        "android_client_info": {
+          "package_name": "com.yocto.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558284614580-iogb9rkjueng65vurluar2pg5sh4bljh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp23E2p-OOhXM0h2YHeW_WJlmisDczOaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558284614580-iogb9rkjueng65vurluar2pg5sh4bljh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
